@@ -1,0 +1,121 @@
+ .u-section-1 {
+  background-image: none;
+  min-height: 853px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  margin: 8px auto 0 calc(((100% - 1140px) / 2));
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 700;
+  font-size: 1.125rem;
+  margin: 11px auto 0 calc(((100% - 1140px) / 2) + 14px);
+}
+
+.u-section-1 .u-line-1 {
+  width: 441px;
+  height: 3px;
+  transform-origin: left center 0px;
+  margin: 9px auto 0 calc(((100% - 1140px) / 2));
+}
+
+.u-section-1 .u-image-1 {
+  width: 1296px;
+  height: 631px;
+  margin: 11px auto 60px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 680px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: calc(((100% - 940px) / 2));
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: calc(((100% - 940px) / 2) + 14px);
+  }
+
+  .u-section-1 .u-line-1 {
+    margin-left: calc(((100% - 940px) / 2));
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 940px;
+    height: 458px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 573px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: calc(((100% - 720px) / 2));
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: calc(((100% - 720px) / 2) + 14px);
+  }
+
+  .u-section-1 .u-line-1 {
+    margin-left: calc(((100% - 720px) / 2));
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 720px;
+    height: 351px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 485px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: calc(((100% - 540px) / 2));
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: calc(((100% - 540px) / 2) + 14px);
+  }
+
+  .u-section-1 .u-line-1 {
+    margin-left: calc(((100% - 540px) / 2));
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 263px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 388px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: calc(((100% - 340px) / 2));
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: calc(((100% - 340px) / 2) + 14px);
+  }
+
+  .u-section-1 .u-line-1 {
+    width: 340px;
+    margin-left: calc(((100% - 340px) / 2));
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 166px;
+  }
+}
